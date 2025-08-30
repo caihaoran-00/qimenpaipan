@@ -48,11 +48,11 @@
 
 ```bash
 # 克隆项目
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/caihaoran-00/qimenpaipan
+cd qimenpaipan
 
-# 安装依赖
-pip install -r requirements.txt
+# 运行
+python main.py
 ```
 
 ## 使用方法
@@ -149,6 +149,7 @@ print(sizhu)
 - datetime
 - json
 - typing
+- zhdate
 
 ## 注意事项
 
